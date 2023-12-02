@@ -1,6 +1,6 @@
 # FunctionXmlProcess
 # Downloads necessários:
-+ https://azure.microsoft.com/en-us/products/storage/storage-explorer/
++ Faça o Download do Azure Storage Explorer: https://azure.microsoft.com/en-us/products/storage/storage-explorer/
 + Instale o Azurite via NPM com o seguinte comando: npm install -g azurite
 + Agora para startar o Serviço Azurite e poder Emular no Storage Explorer rode o seguinte comando: azurite --silent --location c:\azurite --debug c:\azurite\debug.log
 ## Descrição:
